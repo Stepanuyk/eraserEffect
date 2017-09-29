@@ -1,2 +1,2 @@
-@import url(normalize.css);body{border:12px solid red;background:#000}
+@import url(normalize.css);body{overflow:hidden;cursor:none}body img{display:none}
 /*# sourceMappingURL=styles.css.map */
